@@ -1,5 +1,5 @@
 # ic-01
-ic-01 - Welcome to GitHub 
+ic-01 - Welcome to GitHub !
 
 ## Purpose
 
